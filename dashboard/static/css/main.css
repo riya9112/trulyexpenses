@@ -1,0 +1,15 @@
+.disabled:hover{
+    cursor:not-allowed;
+}
+
+.showPasswordToggle{
+    cursor: pointer;
+}
+
+.expense:nth-of-type(2n){
+    background-color: #ebeef1;
+}
+
+#myChart{
+    border-radius: 10px;
+}
